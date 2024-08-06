@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WeGo_UI</id>
+    <version>1.0.0</version>
+    <authors>WeGo_UI</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="35380d7f6b2270bab9636ae4d11e501744392a43" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="AForge" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Video" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Video.DirectShow" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Vision" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="BouncyCastle.Cryptography" version="2.4.0" exclude="Build,Analyzers" />
+        <dependency id="Dapper" version="2.1.35" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="5.2.1" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.4.0" exclude="Build,Analyzers" />
+        <dependency id="MySql.Simple" version="5.3.5" exclude="Build,Analyzers" />
+        <dependency id="OpenAI" version="1.11.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json" target="lib\net8.0-windows7.0\WeGo_UI.runtimeconfig.json" />
+    <file src="C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll" target="lib\net8.0-windows7.0\WeGo_UI.dll" />
+  </files>
+</package>

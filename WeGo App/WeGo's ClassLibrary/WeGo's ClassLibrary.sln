@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeGo's ClassLibrary", "WeGo's ClassLibrary\WeGo's ClassLibrary.csproj", "{3840B134-E854-4E56-9893-9DA473AADBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3840B134-E854-4E56-9893-9DA473AADBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3840B134-E854-4E56-9893-9DA473AADBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3840B134-E854-4E56-9893-9DA473AADBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3840B134-E854-4E56-9893-9DA473AADBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD72EFD8-3BA0-47B8-8FAA-0BB2FD8FC0E4}
+	EndGlobalSection
+EndGlobal

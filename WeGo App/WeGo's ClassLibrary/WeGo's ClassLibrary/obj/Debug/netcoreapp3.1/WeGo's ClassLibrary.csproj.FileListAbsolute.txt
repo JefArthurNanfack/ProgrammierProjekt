@@ -1,0 +1,10 @@
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\bin\Debug\netcoreapp3.1\WeGo's ClassLibrary.deps.json
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\bin\Debug\netcoreapp3.1\WeGo's ClassLibrary.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\bin\Debug\netcoreapp3.1\WeGo's ClassLibrary.pdb
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.AssemblyInfo.cs
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\Classes Library\WeGo's ClassLibrary\WeGo's ClassLibrary\obj\Debug\netcoreapp3.1\WeGo's ClassLibrary.pdb

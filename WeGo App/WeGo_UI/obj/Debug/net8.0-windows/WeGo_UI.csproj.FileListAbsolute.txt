@@ -1,0 +1,910 @@
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\jefar\Desktop\JefNanfack\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\jefar\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\jefar\Desktop\YO WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\WeGo_UI\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\rasha\OneDrive\Desktop\Kack\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EveneLeiteung.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Kundenmanagement.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.kündigung.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Neue_Kunde.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportLeisten.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Tarifeinfo.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Verwaltungshomepage.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachung.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachungskameras.resources
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Vision.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\rasha\OneDrive\Desktop\Backup\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Vision.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EveneLeiteung.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Kundenmanagement.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.kündigung.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Neue_Kunde.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportLeisten.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Tarifeinfo.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Verwaltungshomepage.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachung.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachungskameras.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\5-fitness-app\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Regestrieren.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Vision.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AboÄndern.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EveneLeiteung.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Kundenmanagement.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.kündigung.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Neue_Kunde.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ProfilBearbeitenWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Regestrieren.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportLeisten.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Tarifeinfo.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Verwaltungshomepage.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachung.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachungskameras.resources
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\ahmad\OneDrive\سطح المكتب\GymWego\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.exe
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.deps.json
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.runtimeconfig.json
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Imaging.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Math.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Video.DirectShow.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\AForge.Vision.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\MySql.Simple.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.AssemblyReference.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ErnährungWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EveneLeiteung.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.EventsWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FitWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.FtnTrn.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KundenHomepage.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Kundenmanagement.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.KurseWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.kündigung.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Login.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Neue_Kunde.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.PowerWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Properties.Resources.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.RückenfitWinform.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AerobicWinForm.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.StretchWinform.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.SupportWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Tarifeinfo.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Verwaltungshomepage.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WeGo_Gym.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.WorkoutWindow.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachung.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.Überwachungskameras.resources
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.GenerateResource.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfoInputs.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.AssemblyInfo.cs
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.CoreCompileInputs.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.csproj.Up2Date
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\refint\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.pdb
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.genruntimeconfig.cache
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\ref\WeGo_UI.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\rasha\OneDrive\Desktop\WeGo\WeGo App\WeGo_UI\obj\Debug\net8.0-windows\WeGo_UI.ChatWindow.resources
